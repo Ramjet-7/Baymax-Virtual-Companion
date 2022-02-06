@@ -1,4 +1,4 @@
 # Baymax-Virtual-Companion
-A portion of an app that can recognize emotions.
-There are 2 scripts. One for a still demonstration via a .jpeg image.
-The other is a live demonstration that can be run via a webcam.
+A portion of a Baymax Virtual Companion app that has the ability to recognize emotions using OpenCV and DeepFace; a third-party facial recognition system.
+There are two scripts. One for a still demonstration via a .jpeg or .png image.
+The other is a live demonstration that can be run via a webcam. See "Dependencies.txt" to determine which modules and libraries are required.
